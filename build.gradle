@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group 'interview'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/core']
+        }
+    }
+    test {
+        java {
+            srcDirs = ['src/test/tasks']
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.codeborne', name: 'selenide', version: '4.14.0'
+
+}
