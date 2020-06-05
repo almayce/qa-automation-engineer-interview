@@ -22,7 +22,7 @@ public class JSE4 {
     @Test
     public void example() {
         /*
-         * Что сделает этот код?
+         * Что выполнит этот код?
          */
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].style.border='2px groove green'", element);
