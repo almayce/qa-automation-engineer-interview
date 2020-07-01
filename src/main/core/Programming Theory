@@ -1,25 +1,25 @@
 
-//todo Здравствуйте, Дарья, Меня зовут Алексей. Я являюсь инженером автоматизации - у меня есть несколько вопросов по технической части.            Hi, ---! My Name is Alexey, i'm automation QA engineer. Now I will ask you a couple of questions.
+//todo Здравствуйте, Меня зовут Алексей. Я инженер автоматизации и у меня есть несколько вопросов по тех части.            Hi, ---! My Name is Alexey, i'm automation QA engineer. Now I will ask you a couple of questions.
 
 **************************************** JUNIOR LEVEL ******************************************
 
     //todo Занимались ли вы автоматизацией тестирования?
 
-    В качестве обучения
-
         //todo В каких IDE работали?            Which IDE did you use?
-
-        idea, visual
 
         //todo На каких языках?             Which programming languages do you know?
 
-        java, c#, python
-
         //todo Какие фреймворки и библиотеки задействовали?            Which frameworks and libraries did you use?
 
-        selenium
+        //todo пользовались ли вы GIT
 
+            //todo каким клиентом пользуетесь или работаете через консоль?
 
+            //todo какие команды необходимо выполнить перед тем как запушить код на репозиторий
+
+            git add .
+            git commit -m "init"
+            git push
 
 **************************************** MIDDLE LEVEL ******************************************
 
@@ -47,8 +47,6 @@
 
 
     //todo Что такое система автоматической сборки, какими вы пользовались?
-
-        maven
 
 
     //todo Расскажите про Gradle, в чем его приемущества
