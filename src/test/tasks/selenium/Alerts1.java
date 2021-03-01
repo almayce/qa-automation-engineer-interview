@@ -11,7 +11,7 @@ public class Alerts1 {
 
     /**
      * Что произойдет в каждом из четырех примеров?
-    */
+     */
 
     private WebDriver driver;
     private WebElement element;

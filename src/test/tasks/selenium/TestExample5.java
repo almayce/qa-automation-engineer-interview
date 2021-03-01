@@ -12,11 +12,6 @@ import javax.xml.ws.WebServicePermission;
 
 public class TestExample5 {
 
-    /**
-     * Выбрать тест с корректным ожиданием видимости элемента
-     * один верный ответ
-     */
-
     private WebDriver driver;
     private WebElement element;
 
@@ -25,6 +20,11 @@ public class TestExample5 {
         driver = new ChromeDriver();
         element = driver.findElement(By.id("id"));
     }
+
+    /**
+     * Выбрать тест с корректным ожиданием видимости элемента
+     * один верный ответ
+     */
 
     @Test
     public void example1() {

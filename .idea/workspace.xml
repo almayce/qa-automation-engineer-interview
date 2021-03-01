@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,13 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24b5768f-a11d-40db-9dfe-a993358f2bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/tasks/selenium/java/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tasks/selenium/python/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/core/Programming Theory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core/Programming Theory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/core/Testing Theory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core/Testing Theory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tasks/selenium/Alerts1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tasks/selenium/Alerts1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tasks/selenium/TestExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tasks/selenium/TestExample5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/tasks/selenium/Xpath3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tasks/selenium/Xpath3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +132,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -182,22 +183,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="441" y="91" width="1028" height="843" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1593603705059" />
-    <state x="667" y="335" width="643" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588153535574">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="667" y="335" width="643" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588153535574" />
-    <state x="737" y="272" key="FileChooserDialogImpl" timestamp="1589463864730">
+    <state x="562" y="197" width="785" height="631" key="RollbackChangesDialog" timestamp="1602063720404">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="737" y="272" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589463864730" />
+    <state x="562" y="197" width="785" height="631" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602063720404" />
     <state x="428" y="97" key="SettingsEditor" timestamp="1593606805444">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="428" y="97" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593606805444" />
-    <state x="623" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1589786981019">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589786981019" />
   </component>
   <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
     <setting name="isActivated" value="false" />
